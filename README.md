@@ -1,5 +1,5 @@
 
-*Sneaker Uygulaması Hakkında*
+# Sneaker Uygulaması Hakkında
 
 Sneaker, spor ayakkabı meraklıları için en son trendler ve spor ayakkabı dünyasındaki yeni çıkışlar hakkında güncel kalmak isteyenler için tasarlanmış yenilikçi bir mobil uygulamadır.
 
@@ -7,7 +7,7 @@ Uygulama, kullanıcıların ilgilendikleri spor ayakkabılarını hızlı bir ş
 
 Sneaker, farklı kategoriler ve özellikler içeren basit ve modern bir ana sayfaya sahiptir ve geniş bir spor ayakkabı listesi sunar. Kullanıcı, herhangi bir spor ayakkabısını sepete ekleyebilir ya da istek listesine ekleyebilir. Profil bölümünde kullanıcıya Kişisel bilgiler, Durumum, Ödemeler, Başarılar, Gizlilik ve Çıkış gibi farklı seçenekler sunulmaktadır.
 
-*Özellikler*
+# Özellikler
 
 Modern ve sezgisel bir Ana Sayfa
 
@@ -17,7 +17,7 @@ Gerekli işlevselliğe sahip Sepet
 
 Kişisel bilgiler, Durumum, Ödemeler, Başarılar, Gizlilik ve Çıkış gibi seçenekler içeren profil sayfası
 
-*Kullanılan Araçlar*
+# Kullanılan Araçlar
 
 Android Studio Electric Eel | 2022.1.1
 
